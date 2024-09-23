@@ -6,5 +6,5 @@ def max_of_two(x, y):
 	if y>x:
 		return y
 .       if y==x:
-.           return "Числа равны"
+.               return "Числа равны"
 print(max_of_two(x, y))
